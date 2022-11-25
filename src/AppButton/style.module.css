@@ -1,0 +1,22 @@
+.button{
+    width: 327px;
+    height: 48px;
+
+    background: linear-gradient(180deg, #FFAB00 0%, #D68100 100%);
+    box-shadow: 1.51448e-15px 24.7333px 49.4667px rgba(51, 31, 0, 0.24), inset -4.71172e-16px -7.69481px 7.69481px #CC7A00, inset 4.71172e-16px 7.69481px 7.69481px #FFB100;
+    border-radius: 80px;
+
+    margin: 0 auto;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 48px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+    margin-top: 167px;
+    cursor: pointer;
+}

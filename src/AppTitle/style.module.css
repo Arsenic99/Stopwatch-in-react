@@ -1,0 +1,13 @@
+.title{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 104px;
+    line-height: 122px;
+
+    text-align: center;
+
+    color: #303030;
+
+    opacity: 0.1;
+}
